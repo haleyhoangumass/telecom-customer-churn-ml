@@ -1,5 +1,4 @@
 # Customer Churn Analysis for Telecom
-**Machine Learning for Analytics – SCH-MGMT 655**
 
 ## 📌 Project Overview
 Customer churn is a critical challenge for subscription-based businesses, especially in the telecom industry where switching costs are low and competition is intense. Retaining existing customers is significantly more cost-effective than acquiring new ones.
